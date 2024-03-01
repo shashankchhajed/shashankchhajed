@@ -12,8 +12,10 @@ Welcome to my GitHub profile! I'm Shashank, currently pursuing my Master's in In
 
 ## Professional Experience
 
+- **Data Analytics Intern**
+  - *Furtrieve (Feb 2024 - May 2024)*
 - **Database Administrator**
-  - *Reach Global India Pvt Ltd*
+  - *Reach Global India Pvt Ltd (June 2020 - July 2022)* 
 
 ## Skills
 

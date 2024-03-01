@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm Shashank, currently pursuing my Master's in In
   - *The University of Texas at Arlington*
 - **Graduate Certificate in Business Analytics (Aug 2022 - May 2024)**
   - *The University of Texas at Arlington*
-- **Bacherlor of Engineering in Computer Engineering (Aug 2016 - May 2020)**
+- **Bachelor of Engineering in Computer Engineering (Aug 2016 - May 2020)**
   - *Pune University*
 
 ## Professional Experience
